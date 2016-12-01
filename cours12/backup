@@ -1,0 +1,2 @@
+#!/bin/bash
+tar -cZf /var/backup.tgz /home/blondin_al

@@ -1,0 +1,7 @@
+#!/bin/bash
+OS=`uname`
+if [ "$OS" = "Darwin" ]; then
+   echo "Mac OS"
+else
+   echo "Linux"
+fi
