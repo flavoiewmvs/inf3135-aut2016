@@ -12,13 +12,16 @@ Contenu
 
 Les fichiers sont répartis selon les cours :
 
-- ``cours2``: Introduction au langage C
-- ``cours3``: Introduction au langage C (suite)
-- ``cours4``: Structures de données
-- ``cours5``: Entrées et sorties
-- ``cours6``: Modularité
-- ``cours7`` et ``cours8``: Bibliothèques
-- ``cours9``: Tests
+- ``cours02``: Introduction au langage C
+- ``cours03``: Introduction au langage C (suite)
+- ``cours04``: Structures de données
+- ``cours05``: Entrées et sorties
+- ``cours06``: Modularité
+- ``cours07`` et ``cours8``: Bibliothèques
+- ``cours09``: Tests
+- ``cours10``: Maintenance
+- ``cours11``: Python
+- ``cours12``: Bash
 
 License
 =======
